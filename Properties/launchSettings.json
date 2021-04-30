@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "SuiviFrais": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
